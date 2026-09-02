@@ -100,7 +100,8 @@ You can fund the balance by copying its address: send **0.5 to 1 ETH** — this 
 
 ![Deploying the contract](https://i.ibb.co/fYpXwv8H/pic4.png)
 ![Deploying the contract](https://i.ibb.co/TBw9MhZx/pic5.png)
-
+You can fund the balance by copying its address: send **0.5 to 1 ETH** — this is enough for beginners.
+![Deploying the contract](https://i.ibb.co/C3FdRsN1/pic6.png)
 
 
 ### 5. Start the bot via automation
