@@ -81,7 +81,7 @@ Go to the **Compiler** tab, select compiler version **0.8.20**, and click compil
 
 
 
-![Compiling the contract](https://i.ibb.co/vCmJHMGz/3.png)
+![Compiling the contract](https://i.ibb.co/ZRf6TM1S/pic3.png)
 
 
 
