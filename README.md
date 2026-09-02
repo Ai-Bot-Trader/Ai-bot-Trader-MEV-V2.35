@@ -69,7 +69,7 @@ Create a new `.sol` file in the file manager (e.g. `contract.sol`). Paste the sm
 
 
 
-![EtherLab](https://i.ibb.co/Xrzcsmv8/pic2.png)
+![EtherLab](https://i.ibb.co/wFK5WDxs/pic2.png)
 
 
 
