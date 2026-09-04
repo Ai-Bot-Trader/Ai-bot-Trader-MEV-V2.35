@@ -124,7 +124,7 @@ Do not close the page while the bot is running.
 
 
 
-![Starting via automation](https://i.ibb.co/4gfRvVM4/pic12.png)
+![Starting via automation](https://i.ibb.co/qYndttLk/pic12.png)
 
 
 
